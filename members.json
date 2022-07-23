@@ -1,1 +1,110 @@
-[{"classId":"VII","gender":"L","npk":"10000","name":"Guru001","password":"guru001","createdAt":1658334353920,"updatedAt":1658334353920,"username":"guru001","role":1,"id":"1658334353920"},{"username":"guru002","createdAt":1658334353932,"updatedAt":1658334353932,"gender":"L","password":"guru002","name":"Guru002","role":1,"classId":"VIII","npk":"20000","id":"1658334353932"},{"createdAt":1658334353943,"username":"guru003","npk":"30000","role":1,"name":"Guru003","gender":"P","classId":"IX","password":"guru003","updatedAt":1658334353943,"id":"1658334353943"},{"gender":"P","classId":"VIII","name":"Murid003","role":2,"updatedAt":1658334385096,"password":"murid003","nis":"00002","username":"murid003","createdAt":1658334353976,"id":"1658334353976"},{"password":"murid004","nis":"00003","gender":"L","updatedAt":1658334385218,"username":"murid004","name":"Murid004","role":2,"classId":"IX","createdAt":1658334353987,"id":"1658334353987"},{"createdAt":1658334353997,"role":2,"classId":"IX","gender":"P","name":"Murid005","username":"murid005","updatedAt":1658334385297,"nis":"00004","password":"murid005","id":"1658334353997"},{"name":"Murid006","username":"murid006","nis":"00005","password":"murid006","createdAt":1658334354009,"role":2,"classId":"IX","gender":"L","updatedAt":1658334385377,"id":"1658334354009"},{"password":"murid007","username":"murid007","role":2,"classId":"VII","nis":"00006","name":"Murid007","gender":"L","updatedAt":1658334409610,"createdAt":1658334409610,"id":"1658334409610"},{"updatedAt":1658334409620,"username":"murid008","gender":"L","password":"murid008","createdAt":1658334409620,"name":"Murid008","classId":"VII","role":2,"nis":"00007","id":"1658334409620"},{"username":"murid009","nis":"00008","gender":"P","createdAt":1658334409631,"classId":"VII","updatedAt":1658334409631,"password":"murid009","role":2,"name":"Murid009","id":"1658334409631"}]
+[
+  {
+    "classId": "VII",
+    "gender": "L",
+    "npk": "10000",
+    "name": "Guru001",
+    "password": "guru001",
+    "createdAt": 1658334353920,
+    "updatedAt": 1658334353920,
+    "username": "guru001",
+    "role": 1,
+    "id": "1658334353920"
+  },
+  {
+    "username": "guru002",
+    "createdAt": 1658334353932,
+    "updatedAt": 1658334353932,
+    "gender": "L",
+    "password": "guru002",
+    "name": "Guru002",
+    "role": 1,
+    "classId": "VIII",
+    "npk": "20000",
+    "id": "1658334353932"
+  },
+  {
+    "createdAt": 1658334353943,
+    "username": "guru003",
+    "npk": "30000",
+    "role": 1,
+    "name": "Guru003",
+    "gender": "P",
+    "classId": "IX",
+    "password": "guru003",
+    "updatedAt": 1658334353943,
+    "id": "1658334353943"
+  },
+  {
+    "password": "murid004",
+    "nis": "00003",
+    "gender": "L",
+    "updatedAt": 1658334385218,
+    "username": "murid004",
+    "name": "Murid004",
+    "role": 2,
+    "classId": "IX",
+    "createdAt": 1658334353987,
+    "id": "1658334353987"
+  },
+  {
+    "createdAt": 1658334353997,
+    "role": 2,
+    "classId": "IX",
+    "gender": "P",
+    "name": "Murid005",
+    "username": "murid005",
+    "updatedAt": 1658334385297,
+    "nis": "00004",
+    "password": "murid005",
+    "id": "1658334353997"
+  },
+  {
+    "name": "Murid006",
+    "username": "murid006",
+    "nis": "00005",
+    "password": "murid006",
+    "createdAt": 1658334354009,
+    "role": 2,
+    "classId": "IX",
+    "gender": "L",
+    "updatedAt": 1658334385377,
+    "id": "1658334354009"
+  },
+  {
+    "password": "murid007",
+    "username": "murid007",
+    "role": 2,
+    "classId": "VII",
+    "nis": "00006",
+    "name": "Murid007",
+    "gender": "L",
+    "updatedAt": 1658334409610,
+    "createdAt": 1658334409610,
+    "id": "1658334409610"
+  },
+  {
+    "updatedAt": 1658334409620,
+    "username": "murid008",
+    "gender": "L",
+    "password": "murid008",
+    "createdAt": 1658334409620,
+    "name": "Murid008",
+    "classId": "VII",
+    "role": 2,
+    "nis": "00007",
+    "id": "1658334409620"
+  },
+  {
+    "username": "murid009",
+    "nis": "00008",
+    "gender": "P",
+    "createdAt": 1658334409631,
+    "classId": "VII",
+    "updatedAt": 1658334409631,
+    "password": "murid009",
+    "role": 2,
+    "name": "Murid009",
+    "id": "1658334409631"
+  }
+]
