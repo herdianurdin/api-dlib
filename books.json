@@ -1,0 +1,1242 @@
+[
+  {
+    "updatedAt": 1658480902575,
+    "bookName": "1658480902575.pdf",
+    "createdAt": 1658480902575,
+    "categoryId": "Ensiklopedia_dan_Kamus",
+    "title": "100 Tokoh yang Mengubah Indonesia",
+    "author": "Floriberta Aning S.",
+    "coverName": "1658480902575.webp",
+    "id": "1658480902575"
+  },
+  {
+    "coverName": "1658480963458.webp",
+    "title": "147 Ilmuwan Terkemuka Dalam Sejarah Islam",
+    "createdAt": 1658480963458,
+    "updatedAt": 1658480963458,
+    "bookName": "1658480963458.pdf",
+    "categoryId": "Ensiklopedia_dan_Kamus",
+    "author": "Muhammad Gharib Jaudah",
+    "id": "1658480963458"
+  },
+  {
+    "title": "Basic Engineering Mathematics",
+    "coverName": "1658481061977.webp",
+    "createdAt": 1658481061977,
+    "updatedAt": 1658481310230,
+    "bookName": "1658481061977.pdf",
+    "author": "Jhon Bird",
+    "categoryId": "Modul",
+    "id": "1658481061977"
+  },
+  {
+    "title": "Cars, Trains, Ships, and Planes A Visual Encyclopedia of Every Vehicle",
+    "updatedAt": 1658481215187,
+    "coverName": "1658481215187.webp",
+    "createdAt": 1658481215187,
+    "author": "Clive Gifford",
+    "bookName": "1658481215187.pdf",
+    "categoryId": "Ensiklopedia_dan_Kamus",
+    "id": "1658481215187"
+  },
+  {
+    "updatedAt": 1658481506422,
+    "coverName": "1658481506422.webp",
+    "createdAt": 1658481506422,
+    "bookName": "1658481506422.pdf",
+    "author": "Don Rittle & Timothy L",
+    "categoryId": "Ensiklopedia_dan_Kamus",
+    "title": "Encyclopedia of Biology",
+    "id": "1658481506422"
+  },
+  {
+    "updatedAt": 1658481574183,
+    "createdAt": 1658481574183,
+    "bookName": "1658481574183.pdf",
+    "coverName": "1658481574183.webp",
+    "author": "Juan E. Campo",
+    "categoryId": "Ensiklopedia_dan_Kamus",
+    "title": "Encyclopedia of Islam",
+    "id": "1658481574183"
+  },
+  {
+    "author": "James Tanton,PH.D",
+    "coverName": "1658481639589.webp",
+    "updatedAt": 1658481639589,
+    "categoryId": "Ensiklopedia_dan_Kamus",
+    "bookName": "1658481639589.pdf",
+    "title": "Encyclopedia Of Mathematics",
+    "createdAt": 1658481639589,
+    "id": "1658481639589"
+  },
+  {
+    "categoryId": "Ensiklopedia_dan_Kamus",
+    "author": "Penelope Arlon",
+    "createdAt": 1658481743438,
+    "coverName": "1658481743438.webp",
+    "bookName": "1658481743438.pdf",
+    "updatedAt": 1658481743438,
+    "title": "First Animal Encyclopedia",
+    "id": "1658481743438"
+  },
+  {
+    "author": "Jhon Bird",
+    "createdAt": 1658481788581,
+    "bookName": "1658481788581.pdf",
+    "coverName": "1658481788581.webp",
+    "categoryId": "Modul",
+    "updatedAt": 1658481788581,
+    "title": "Higher Engineering Mathematics",
+    "id": "1658481788581"
+  },
+  {
+    "author": "Kamus Pusat Bahasa",
+    "updatedAt": 1658481941188,
+    "coverName": "1658481941188.webp",
+    "title": "Kamus Besar Bahasa Indonesia",
+    "categoryId": "Ensiklopedia_dan_Kamus",
+    "createdAt": 1658481941188,
+    "bookName": "1658481941188.pdf",
+    "id": "1658481941188"
+  },
+  {
+    "createdAt": 1658481990168,
+    "bookName": "1658481990168.pdf",
+    "categoryId": "Ensiklopedia_dan_Kamus",
+    "title": "Kamus Ilmu Hadis",
+    "author": "Drs. Totok Jumantoro",
+    "coverName": "1658481990168.webp",
+    "updatedAt": 1658482030117,
+    "id": "1658481990168"
+  },
+  {
+    "bookName": "1658482093188.pdf",
+    "createdAt": 1658482093188,
+    "updatedAt": 1658482093188,
+    "author": "Iman Saiful Mu`minin",
+    "coverName": "1658482093188.webp",
+    "categoryId": "Ensiklopedia_dan_Kamus",
+    "title": "Kamus Ilmu Nahwu dan Sharaf",
+    "id": "1658482093188"
+  },
+  {
+    "categoryId": "Ensiklopedia_dan_Kamus",
+    "title": "Kamus Ilmu Usul Fikih Bagian 1",
+    "author": "Drs. Totok Jumantoro, M.A & Drs. Munir Amin,M.Ag",
+    "bookName": "1658482229363.pdf",
+    "coverName": "1658482229363.webp",
+    "createdAt": 1658482229363,
+    "updatedAt": 1658482229363,
+    "id": "1658482229363"
+  },
+  {
+    "title": "Kamus Ilmu Usul Fikih Bagian 2",
+    "createdAt": 1658482240604,
+    "updatedAt": 1658482240604,
+    "categoryId": "Ensiklopedia_dan_Kamus",
+    "coverName": "1658482240604.webp",
+    "author": "Drs. Totok Jumantoro, M.A & Drs. Munir Amin,M.Ag",
+    "bookName": "1658482240604.pdf",
+    "id": "1658482240604"
+  },
+  {
+    "updatedAt": 1658482286802,
+    "author": "Mahoni.com",
+    "createdAt": 1658482286802,
+    "categoryId": "Ensiklopedia_dan_Kamus",
+    "coverName": "1658482286802.webp",
+    "title": "Kamus Inggris Indonesia",
+    "bookName": "1658482286802.pdf",
+    "id": "1658482286802"
+  },
+  {
+    "createdAt": 1658482326811,
+    "coverName": "1658482326811.webp",
+    "updatedAt": 1658482326811,
+    "title": "Kamus Praktis Bahasa Arab (Indonesia-Arab)",
+    "categoryId": "Ensiklopedia_dan_Kamus",
+    "bookName": "1658482326811.pdf",
+    "author": "Yu@artanto",
+    "id": "1658482326811"
+  },
+  {
+    "updatedAt": 1658482402891,
+    "title": "Science! Knowledge Encyclopedia",
+    "bookName": "1658482402891.pdf",
+    "coverName": "1658482402891.webp",
+    "createdAt": 1658482402891,
+    "categoryId": "Ensiklopedia_dan_Kamus",
+    "author": "Smithsonian",
+    "id": "1658482402891"
+  },
+  {
+    "createdAt": 1658482436988,
+    "coverName": "1658482436988.webp",
+    "updatedAt": 1658482716011,
+    "title": "The Dinosaur Book And Other Wonders of the Prehistoric World",
+    "categoryId": "Ensiklopedia_dan_Kamus",
+    "bookName": "1658482436988.pdf",
+    "author": "Smithsonian",
+    "id": "1658482436988"
+  },
+  {
+    "updatedAt": 1658482560940,
+    "title": "Space A Visual Encyclopedia",
+    "createdAt": 1658482560940,
+    "categoryId": "Ensiklopedia_dan_Kamus",
+    "coverName": "1658482560940.webp",
+    "bookName": "1658482560940.pdf",
+    "author": "Dorling Kindersley Limited",
+    "id": "1658482560940"
+  },
+  {
+    "coverName": "1658482613445.webp",
+    "createdAt": 1658482613445,
+    "title": "The Animal Book Encyclopedia",
+    "bookName": "1658482613445.pdf",
+    "author": "Dorling Kindersley Limited",
+    "updatedAt": 1658482613445,
+    "categoryId": "Ensiklopedia_dan_Kamus",
+    "id": "1658482613445"
+  },
+  {
+    "author": "Syaikh Abdurrahman bin Nashir As-Sa’di",
+    "createdAt": 1658482847664,
+    "bookName": "1658482847664.pdf",
+    "categoryId": "Modul",
+    "updatedAt": 1658482847664,
+    "coverName": "1658482847664.webp",
+    "title": "Belajar Dasar-Dasar Kaidah Fikih",
+    "id": "1658482847664"
+  },
+  {
+    "title": "Fikih Ikhtilaf",
+    "coverName": "1658482891235.webp",
+    "createdAt": 1658482891235,
+    "author": "Abu Ubaidah Yusuf bin Mukhtar as-Sidawi",
+    "categoryId": "Modul",
+    "bookName": "1658482891235.pdf",
+    "updatedAt": 1658482891235,
+    "id": "1658482891235"
+  },
+  {
+    "coverName": "1658482960951.webp",
+    "createdAt": 1658482960951,
+    "title": "Kedudukan Wanita Islam",
+    "author": "Dr. Jamal A. Badawi",
+    "bookName": "1658482960951.pdf",
+    "categoryId": "Modul",
+    "updatedAt": 1658482960951,
+    "id": "1658482960951"
+  },
+  {
+    "createdAt": 1658483020988,
+    "author": "Ustadz Aris Munandar ,S.S.,M.P.I.",
+    "title": "Nasihat Ulama Penggugah Jiwa",
+    "categoryId": "Modul",
+    "coverName": "1658483020988.webp",
+    "updatedAt": 1658483020988,
+    "bookName": "1658483020988.pdf",
+    "id": "1658483020988"
+  },
+  {
+    "title": "Panduan Belajar Baca Kitab",
+    "categoryId": "Modul",
+    "coverName": "1658483071196.webp",
+    "createdAt": 1658483071196,
+    "updatedAt": 1658483071196,
+    "author": "Abu Mushlih Ari Wahyudi",
+    "bookName": "1658483071196.pdf",
+    "id": "1658483071196"
+  },
+  {
+    "updatedAt": 1658483111869,
+    "coverName": "1658483111869.webp",
+    "categoryId": "Modul",
+    "author": "Muhammad Abduh Tuasikal",
+    "bookName": "1658483111869.pdf",
+    "title": "Panduan Zakat 2,5%",
+    "createdAt": 1658483111869,
+    "id": "1658483111869"
+  },
+  {
+    "categoryId": "Modul",
+    "title": "Akidah Akhlak Kelas VII",
+    "updatedAt": 1658483491552,
+    "createdAt": 1658483394658,
+    "bookName": "1658483394658.pdf",
+    "coverName": "1658483394658.webp",
+    "author": "Akhmad Fauzi",
+    "id": "1658483394658"
+  },
+  {
+    "updatedAt": 1658483564382,
+    "title": "Bahasa Indonesia Kelas VII",
+    "author": "Titik Harsiati, Agus Trianto, dan E. Kosasih",
+    "categoryId": "Modul",
+    "coverName": "1658483564382.webp",
+    "bookName": "1658483564382.pdf",
+    "createdAt": 1658483564382,
+    "id": "1658483564382"
+  },
+  {
+    "coverName": "1658483625228.webp",
+    "createdAt": 1658483625228,
+    "categoryId": "Modul",
+    "bookName": "1658483625228.pdf",
+    "updatedAt": 1658484464210,
+    "title": "Bahasa Inggris Kelas VII",
+    "author": "Siti Wachidah, et al",
+    "id": "1658483625228"
+  },
+  {
+    "author": "Faruq Baharudin",
+    "bookName": "1658483676022.pdf",
+    "categoryId": "Modul",
+    "createdAt": 1658483676022,
+    "updatedAt": 1658483676022,
+    "title": "Bahasa Arab Kelas VII",
+    "coverName": "1658483676022.webp",
+    "id": "1658483676022"
+  },
+  {
+    "categoryId": "Modul",
+    "coverName": "1658483796611.webp",
+    "title": "Bahasa Sunda Kelas VII",
+    "updatedAt": 1658483796611,
+    "createdAt": 1658483796611,
+    "author": "Tatang Sumarsono, et al ",
+    "bookName": "1658483796611.pdf",
+    "id": "1658483796611"
+  },
+  {
+    "coverName": "1658483844140.webp",
+    "updatedAt": 1658483844140,
+    "author": "Mashuri",
+    "title": "Fikih Kelas VII",
+    "bookName": "1658483844140.pdf",
+    "createdAt": 1658483844140,
+    "categoryId": "Modul",
+    "id": "1658483844140"
+  },
+  {
+    "author": "Wahono Widodo, Fida Rachmadiarti, dan Siti Nurul Hidayati",
+    "updatedAt": 1658483913420,
+    "createdAt": 1658483913420,
+    "categoryId": "Modul",
+    "coverName": "1658483913420.webp",
+    "title": "Ilmu Pengetahuan Alam Kelas VII Semester 1",
+    "bookName": "1658483913420.pdf",
+    "id": "1658483913420"
+  },
+  {
+    "author": "Wahono Widodo, Fida Rachmadiarti, dan Siti Nurul Hidayati",
+    "bookName": "1658483927362.pdf",
+    "title": "Ilmu Pengetahuan Alam Kelas VII Semester 2",
+    "categoryId": "Modul",
+    "updatedAt": 1658483927362,
+    "coverName": "1658483927362.webp",
+    "createdAt": 1658483927362,
+    "id": "1658483927362"
+  },
+  {
+    "bookName": "1658483973857.pdf",
+    "author": "Iwan Setiawan, Dedi, Suciati, dan A. Mushlih",
+    "updatedAt": 1658483973857,
+    "coverName": "1658483973857.webp",
+    "title": "Ilmu Pengetahuan Sosial Kelas VII",
+    "createdAt": 1658483973857,
+    "categoryId": "Modul",
+    "id": "1658483973857"
+  },
+  {
+    "author": "Abdur Rahman As’ari, et al",
+    "title": "Matematika Kelas VII Semester 1",
+    "bookName": "1658484066206.pdf",
+    "updatedAt": 1658484066206,
+    "coverName": "1658484066206.webp",
+    "createdAt": 1658484066206,
+    "categoryId": "Modul",
+    "id": "1658484066206"
+  },
+  {
+    "updatedAt": 1658484078311,
+    "createdAt": 1658484078311,
+    "bookName": "1658484078311.pdf",
+    "title": "Matematika Kelas VII Semester 2",
+    "coverName": "1658484078311.webp",
+    "categoryId": "Modul",
+    "author": "Abdur Rahman As’ari, et al",
+    "id": "1658484078311"
+  },
+  {
+    "author": "Muhajir",
+    "createdAt": 1658484144364,
+    "updatedAt": 1658484144364,
+    "title": "Pendidikan Jasmani, Olahraga, dan Kesehatan Kelas VII",
+    "bookName": "1658484144364.pdf",
+    "categoryId": "Modul",
+    "coverName": "1658484144364.webp",
+    "id": "1658484144364"
+  },
+  {
+    "categoryId": "Modul",
+    "bookName": "1658484196490.pdf",
+    "title": "Pendidikan Pancasila dan Kewarganegaraan Kelas VII",
+    "coverName": "1658484196490.webp",
+    "author": "Lukman Surya Saputra, Aa Nurdiaman, dan Salikun",
+    "updatedAt": 1658484196490,
+    "createdAt": 1658484196490,
+    "id": "1658484196490"
+  },
+  {
+    "categoryId": "Modul",
+    "bookName": "1658484254759.pdf",
+    "coverName": "1658484254759.webp",
+    "updatedAt": 1658484254759,
+    "title": "Prakarya Kelas VII Semester 1",
+    "createdAt": 1658484254759,
+    "author": "Suci Paresti, et al",
+    "id": "1658484254759"
+  },
+  {
+    "coverName": "1658484266016.webp",
+    "createdAt": 1658484266016,
+    "title": "Prakarya Kelas VII Semester 2",
+    "categoryId": "Modul",
+    "author": "Suci Paresti, et al",
+    "bookName": "1658484266016.pdf",
+    "updatedAt": 1658484266016,
+    "id": "1658484266016"
+  },
+  {
+    "createdAt": 1658484320089,
+    "author": "Moh. Abdul Hafidz",
+    "title": "Al-Qur`an Hadis Kelas VII",
+    "categoryId": "Modul",
+    "coverName": "1658484320089.webp",
+    "bookName": "1658484320089.pdf",
+    "updatedAt": 1658484320089,
+    "id": "1658484320089"
+  },
+  {
+    "updatedAt": 1658484367846,
+    "title": "Seni Budaya Kelas VII",
+    "coverName": "1658484367846.webp",
+    "categoryId": "Modul",
+    "bookName": "1658484367846.pdf",
+    "createdAt": 1658484367846,
+    "author": "Eko Purnomo, et al",
+    "id": "1658484367846"
+  },
+  {
+    "bookName": "1658484402791.pdf",
+    "title": "Sejarah Kebudayaan Islam Kelas VII",
+    "createdAt": 1658484402791,
+    "categoryId": "Modul",
+    "author": "Muh. Chamdillah",
+    "coverName": "1658484402791.webp",
+    "updatedAt": 1658484402791,
+    "id": "1658484402791"
+  },
+  {
+    "coverName": "1658485806238.webp",
+    "updatedAt": 1658485806238,
+    "createdAt": 1658485806238,
+    "categoryId": "Modul",
+    "bookName": "1658485806238.pdf",
+    "title": "Akidah Akhlak Kelas VIII",
+    "author": "Yusuf Hasyim",
+    "id": "1658485806238"
+  },
+  {
+    "updatedAt": 1658485858790,
+    "createdAt": 1658485858790,
+    "author": "E. Kosasih",
+    "bookName": "1658485858790.pdf",
+    "coverName": "1658485858790.webp",
+    "categoryId": "Modul",
+    "title": "Bahasa Indonesia Kelas VIII",
+    "id": "1658485858790"
+  },
+  {
+    "title": "Bahasa Inggris Kelas VIII",
+    "createdAt": 1658485901411,
+    "bookName": "1658485901411.pdf",
+    "updatedAt": 1658485901411,
+    "coverName": "1658485901411.webp",
+    "categoryId": "Modul",
+    "author": "Siti Wachidah, et al",
+    "id": "1658485901411"
+  },
+  {
+    "updatedAt": 1658485932176,
+    "coverName": "1658485932176.webp",
+    "createdAt": 1658485932176,
+    "title": "Bahasa Arab Kelas VIII",
+    "categoryId": "Modul",
+    "bookName": "1658485932176.pdf",
+    "author": "Masrukhin",
+    "id": "1658485932176"
+  },
+  {
+    "createdAt": 1658485966164,
+    "author": "Tatang Sumarsono, et al",
+    "updatedAt": 1658485966164,
+    "categoryId": "Modul",
+    "title": "Bahasa Sunda Kelas VIII",
+    "coverName": "1658485966164.webp",
+    "bookName": "1658485966164.pdf",
+    "id": "1658485966164"
+  },
+  {
+    "coverName": "1658486005487.webp",
+    "title": "Fikih Kelas VIII",
+    "createdAt": 1658486005487,
+    "categoryId": "Modul",
+    "updatedAt": 1658486005487,
+    "author": "Zainul Ma'arif",
+    "bookName": "1658486005487.pdf",
+    "id": "1658486005487"
+  },
+  {
+    "author": "Siti Zubaidah, et al",
+    "updatedAt": 1658486058452,
+    "coverName": "1658486058452.webp",
+    "title": "Ilmu Pengetahuan Alam Kelas VIII Semester 1",
+    "createdAt": 1658486058452,
+    "bookName": "1658486058452.pdf",
+    "categoryId": "Modul",
+    "id": "1658486058452"
+  },
+  {
+    "author": "Siti Zubaidah, et al",
+    "createdAt": 1658486074485,
+    "categoryId": "Modul",
+    "bookName": "1658486074485.pdf",
+    "updatedAt": 1658486074485,
+    "title": "Ilmu Pengetahuan Alam Kelas VIII Semester 2",
+    "coverName": "1658486074485.webp",
+    "id": "1658486074485"
+  },
+  {
+    "bookName": "1658486118814.pdf",
+    "author": "Mukminan,",
+    "updatedAt": 1658486118814,
+    "createdAt": 1658486118814,
+    "categoryId": "Modul",
+    "title": "Ilmu Pengetahuan Sosial Kelas VIII",
+    "coverName": "1658486118814.webp",
+    "id": "1658486118814"
+  },
+  {
+    "author": "Abdur Rahman As’ari, et al",
+    "updatedAt": 1658486166864,
+    "bookName": "1658486166864.pdf",
+    "coverName": "1658486166864.webp",
+    "categoryId": "Modul",
+    "title": "Matematika Kelas VIII Semester 1",
+    "createdAt": 1658486166864,
+    "id": "1658486166864"
+  },
+  {
+    "title": "Matematika Kelas VIII Semester 2",
+    "createdAt": 1658486175871,
+    "categoryId": "Modul",
+    "bookName": "1658486175871.pdf",
+    "coverName": "1658486175871.webp",
+    "updatedAt": 1658486175871,
+    "author": "Abdur Rahman As’ari, et al",
+    "id": "1658486175871"
+  },
+  {
+    "createdAt": 1658486250451,
+    "author": "Roji dan Eva Yulianti",
+    "categoryId": "Modul",
+    "updatedAt": 1658486250451,
+    "coverName": "1658486250451.webp",
+    "bookName": "1658486250451.pdf",
+    "title": "Pendidikan Jasmani, Olahraga, dan Kesehatan Kelas VIII",
+    "id": "1658486250451"
+  },
+  {
+    "author": "Lukman Surya Saputra, Ida Rohayani, dan Salikun",
+    "createdAt": 1658486299911,
+    "title": "Pendidikan Pancasila dan Kewarganegaraan Kelas VIII",
+    "updatedAt": 1658486299911,
+    "coverName": "1658486299911.webp",
+    "bookName": "1658486299911.pdf",
+    "categoryId": "Modul",
+    "id": "1658486299911"
+  },
+  {
+    "title": "Prakarya Kelas VIII Semester 1",
+    "createdAt": 1658486351877,
+    "updatedAt": 1658486351877,
+    "categoryId": "Modul",
+    "author": "Suci Paresti, et al",
+    "coverName": "1658486351877.webp",
+    "bookName": "1658486351877.pdf",
+    "id": "1658486351877"
+  },
+  {
+    "title": "Prakarya Kelas VIII Semester 2",
+    "bookName": "1658486362036.pdf",
+    "coverName": "1658486362036.webp",
+    "updatedAt": 1658486362036,
+    "author": "Suci Paresti, et al",
+    "categoryId": "Modul",
+    "createdAt": 1658486362036,
+    "id": "1658486362036"
+  },
+  {
+    "bookName": "1658486406132.pdf",
+    "coverName": "1658486406132.webp",
+    "title": "Al-Qur`an Hadis Kelas VIII",
+    "createdAt": 1658486406132,
+    "author": "Nismatul Khoiriyah",
+    "categoryId": "Modul",
+    "updatedAt": 1658486406132,
+    "id": "1658486406132"
+  },
+  {
+    "bookName": "1658486446913.pdf",
+    "title": "Seni Budaya Kelas VIII",
+    "updatedAt": 1658486446913,
+    "author": "Eko Purnomo, et al",
+    "coverName": "1658486446913.webp",
+    "createdAt": 1658486446913,
+    "categoryId": "Modul",
+    "id": "1658486446913"
+  },
+  {
+    "coverName": "1658486484710.webp",
+    "categoryId": "Modul",
+    "author": "Muh. Subhan",
+    "title": "Sejarah Kebudayaan Islam Kelas VIII",
+    "bookName": "1658486484710.pdf",
+    "createdAt": 1658486484710,
+    "updatedAt": 1658486484710,
+    "id": "1658486484710"
+  },
+  {
+    "createdAt": 1658486601953,
+    "title": "Akidah Akhlak Kelas IX",
+    "author": "Hj. Muta'allimah, S.Ag, M.Si",
+    "updatedAt": 1658486601953,
+    "bookName": "1658486601953.pdf",
+    "coverName": "1658486601953.webp",
+    "categoryId": "Modul",
+    "id": "1658486601953"
+  },
+  {
+    "coverName": "1658486663593.webp",
+    "bookName": "1658486663593.pdf",
+    "createdAt": 1658486663593,
+    "title": "Bahasa Indonesia Kelas IX Bab I-III",
+    "updatedAt": 1658486663593,
+    "categoryId": "Modul",
+    "author": "Agus Trianto, Titik Harsiati, dan E. Kosasih",
+    "id": "1658486663593"
+  },
+  {
+    "createdAt": 1658486681801,
+    "categoryId": "Modul",
+    "title": "Bahasa Indonesia Kelas IX Bab IV-VI",
+    "bookName": "1658486681801.pdf",
+    "author": "Agus Trianto, Titik Harsiati, dan E. Kosasih",
+    "updatedAt": 1658486681801,
+    "coverName": "1658486681801.webp",
+    "id": "1658486681801"
+  },
+  {
+    "categoryId": "Modul",
+    "coverName": "1658486700833.webp",
+    "bookName": "1658486700833.pdf",
+    "author": "Agus Trianto, Titik Harsiati, dan E. Kosasih",
+    "updatedAt": 1658486700833,
+    "createdAt": 1658486700833,
+    "title": "Bahasa Indonesia Kelas IX Bab IV-VI",
+    "id": "1658486700833"
+  },
+  {
+    "title": "Bahasa Inggris Kelas IX",
+    "author": "Siti Wachidah, Asep Gunawan, dan Diyantari",
+    "createdAt": 1658486738235,
+    "coverName": "1658486738235.webp",
+    "categoryId": "Modul",
+    "updatedAt": 1658486738235,
+    "bookName": "1658486738235.pdf",
+    "id": "1658486738235"
+  },
+  {
+    "author": "Yushi M. Mahmudah",
+    "coverName": "1658486777512.webp",
+    "updatedAt": 1658486777512,
+    "categoryId": "Modul",
+    "title": "Bahasa Arab Kelas IX",
+    "createdAt": 1658486777512,
+    "bookName": "1658486777512.pdf",
+    "id": "1658486777512"
+  },
+  {
+    "createdAt": 1658486810365,
+    "author": "Tatang Sumarsono, et al",
+    "title": "Bahasa Sunda Kelas IX",
+    "bookName": "1658486810365.pdf",
+    "updatedAt": 1658486810365,
+    "categoryId": "Modul",
+    "coverName": "1658486810365.webp",
+    "id": "1658486810365"
+  },
+  {
+    "categoryId": "Modul",
+    "coverName": "1658486843351.webp",
+    "updatedAt": 1658486843351,
+    "title": "Fikih Kelas IX",
+    "author": "Ubaidillah, S.Ag, M.Pd",
+    "bookName": "1658486843351.pdf",
+    "createdAt": 1658486843351,
+    "id": "1658486843351"
+  },
+  {
+    "author": "Siti Zubaidah, et al",
+    "title": "Ilmu Pengetahuan Alam Kelas IX Semester 1",
+    "categoryId": "Modul",
+    "bookName": "1658486890817.pdf",
+    "createdAt": 1658486890817,
+    "coverName": "1658486890817.webp",
+    "updatedAt": 1658486890817,
+    "id": "1658486890817"
+  },
+  {
+    "coverName": "1658486914674.webp",
+    "bookName": "1658486914674.pdf",
+    "title": "Ilmu Pengetahuan Alam Kelas IX Semester 2",
+    "categoryId": "Modul",
+    "createdAt": 1658486914674,
+    "updatedAt": 1658486914674,
+    "author": "Siti Zubaidah, et al",
+    "id": "1658486914674"
+  },
+  {
+    "createdAt": 1658486950075,
+    "coverName": "1658486950075.webp",
+    "updatedAt": 1658486950075,
+    "title": "Ilmu Pengetahuan Sosial Kelas IX",
+    "author": "Iwan Setiawan, et al",
+    "categoryId": "Modul",
+    "bookName": "1658486950075.pdf",
+    "id": "1658486950075"
+  },
+  {
+    "title": "Matematika Kelas IX",
+    "updatedAt": 1658486996008,
+    "bookName": "1658486996008.pdf",
+    "categoryId": "Modul",
+    "author": "Subchan, et al",
+    "coverName": "1658486996008.webp",
+    "createdAt": 1658486996008,
+    "id": "1658486996008"
+  },
+  {
+    "author": "Suherman",
+    "title": "Pendidikan Jasmani, Olahraga, dan Kesehatan Kelas IX",
+    "categoryId": "Modul",
+    "createdAt": 1658487046088,
+    "bookName": "1658487046088.pdf",
+    "coverName": "1658487046088.webp",
+    "updatedAt": 1658487046088,
+    "id": "1658487046088"
+  },
+  {
+    "author": "Ai Tin Sumartini dan Asep Sutisna Putra",
+    "coverName": "1658487100584.webp",
+    "updatedAt": 1658487100584,
+    "bookName": "1658487100584.pdf",
+    "categoryId": "Modul",
+    "createdAt": 1658487100584,
+    "title": "Pendidikan Pancasila dan Kewarganegaraan Kelas IX",
+    "id": "1658487100584"
+  },
+  {
+    "updatedAt": 1658487146317,
+    "title": "Prakarya Kelas IX Semester 1",
+    "coverName": "1658487146317.webp",
+    "author": "Dewi Sri Handayani Nuswantari, et al",
+    "bookName": "1658487146317.pdf",
+    "categoryId": "Modul",
+    "createdAt": 1658487146317,
+    "id": "1658487146317"
+  },
+  {
+    "coverName": "1658487155771.webp",
+    "categoryId": "Modul",
+    "updatedAt": 1658487155771,
+    "author": "Dewi Sri Handayani Nuswantari, et al",
+    "createdAt": 1658487155771,
+    "bookName": "1658487155771.pdf",
+    "title": "Prakarya Kelas IX Semester 2",
+    "id": "1658487155771"
+  },
+  {
+    "createdAt": 1658487200072,
+    "coverName": "1658487200072.webp",
+    "categoryId": "Modul",
+    "author": "Usup Sidik",
+    "title": "Al-Qur`an Hadis Kelas IX",
+    "bookName": "1658487200072.pdf",
+    "updatedAt": 1658487200072,
+    "id": "1658487200072"
+  },
+  {
+    "categoryId": "Modul",
+    "coverName": "1658487235597.webp",
+    "title": "Seni Budaya Kelas IX",
+    "bookName": "1658487235597.pdf",
+    "author": "Milasari, et al",
+    "updatedAt": 1658487235597,
+    "createdAt": 1658487235597,
+    "id": "1658487235597"
+  },
+  {
+    "author": "M. Kholiluddin",
+    "createdAt": 1658487280713,
+    "title": "Sejarah Kebudayaan Islam Kelas IX",
+    "updatedAt": 1658487280713,
+    "bookName": "1658487280713.pdf",
+    "categoryId": "Modul",
+    "coverName": "1658487280713.webp",
+    "id": "1658487280713"
+  },
+  {
+    "categoryId": "Novel",
+    "title": "2B",
+    "createdAt": 1658490333015,
+    "coverName": "1658490333015.webp",
+    "author": "Maulida Azizah & Ummu Rahayu",
+    "updatedAt": 1658490333015,
+    "bookName": "1658490333015.pdf",
+    "id": "1658490333015"
+  },
+  {
+    "bookName": "1658490375188.pdf",
+    "coverName": "1658490375188.webp",
+    "title": "7 Tahun Kegelapan (7 Years of Darkness)",
+    "categoryId": "Novel",
+    "updatedAt": 1658490375188,
+    "author": "Jeong You-jeong",
+    "createdAt": 1658490375188,
+    "id": "1658490375188"
+  },
+  {
+    "bookName": "1658490427421.pdf",
+    "categoryId": "Novel",
+    "updatedAt": 1658490427421,
+    "createdAt": 1658490427421,
+    "title": "Adakah Cinta Sejati Di Hari Valentine",
+    "author": "Kontributor Muslim.or.id",
+    "coverName": "1658490427421.webp",
+    "id": "1658490427421"
+  },
+  {
+    "bookName": "1658490502597.pdf",
+    "coverName": "1658490502597.webp",
+    "categoryId": "Modul",
+    "updatedAt": 1658490502597,
+    "author": "Yulian Purnama",
+    "title": "Alam Kubur Itu Benar Adanya",
+    "createdAt": 1658490502597,
+    "id": "1658490502597"
+  },
+  {
+    "coverName": "1658490541851.webp",
+    "title": "Another Love Story of Walden Brother",
+    "categoryId": "Novel",
+    "createdAt": 1658490541851,
+    "bookName": "1658490541851.pdf",
+    "author": "Kim Rang",
+    "updatedAt": 1658490541851,
+    "id": "1658490541851"
+  },
+  {
+    "bookName": "1658490572227.pdf",
+    "categoryId": "Novel",
+    "updatedAt": 1658490572227,
+    "title": "Badai Pasti Berlalu",
+    "coverName": "1658490572227.webp",
+    "author": "Marga T",
+    "createdAt": 1658490572227,
+    "id": "1658490572227"
+  },
+  {
+    "bookName": "1658490660064.pdf",
+    "updatedAt": 1658490660064,
+    "coverName": "1658490660064.webp",
+    "createdAt": 1658490660064,
+    "author": "Yulian Purnama",
+    "title": "Bagaimana Menuntut Ilmu",
+    "categoryId": "Modul",
+    "id": "1658490660064"
+  },
+  {
+    "updatedAt": 1658490791812,
+    "bookName": "1658490791812.pdf",
+    "author": "Falistiyana",
+    "createdAt": 1658490791812,
+    "title": "Gibran Dirgantara",
+    "categoryId": "Novel",
+    "coverName": "1658490791812.webp",
+    "id": "1658490791812"
+  },
+  {
+    "author": "Adhi Glory",
+    "coverName": "1658490919778.webp",
+    "categoryId": "Novel",
+    "updatedAt": 1658490919778,
+    "createdAt": 1658490919778,
+    "title": "Kisah Langit Jingga",
+    "bookName": "1658490919778.pdf",
+    "id": "1658490919778"
+  },
+  {
+    "createdAt": 1658490993551,
+    "coverName": "1658490993551.webp",
+    "bookName": "1658490993551.pdf",
+    "author": "Ay Lind Mustika",
+    "title": "Konspirasi Juni Juli",
+    "updatedAt": 1658490993551,
+    "categoryId": "Novel",
+    "id": "1658490993551"
+  },
+  {
+    "title": "Kupas Tuntas Sutrah Shalat",
+    "bookName": "1658491052070.pdf",
+    "author": "Yulian Purnama",
+    "coverName": "1658491052070.webp",
+    "createdAt": 1658491052070,
+    "updatedAt": 1658491052070,
+    "categoryId": "Modul",
+    "id": "1658491052070"
+  },
+  {
+    "updatedAt": 1658491178812,
+    "createdAt": 1658491178812,
+    "categoryId": "Novel",
+    "author": "Yulian Purnama",
+    "title": "Muhammad SAW Lelaki Penggenggam Hujan Bagian 1",
+    "coverName": "1658491178812.webp",
+    "bookName": "1658491178812.pdf",
+    "id": "1658491178812"
+  },
+  {
+    "categoryId": "Novel",
+    "updatedAt": 1658491214577,
+    "author": "Yulian Purnama",
+    "createdAt": 1658491214577,
+    "coverName": "1658491214577.webp",
+    "bookName": "1658491214577.pdf",
+    "title": "Muhammad SAW Para Pengeja Hujan Bagian 2",
+    "id": "1658491214577"
+  },
+  {
+    "updatedAt": 1658491344914,
+    "coverName": "1658491344914.webp",
+    "categoryId": "Modul",
+    "title": "Rambu-Rambu Berbakti Kepada Orangtua",
+    "createdAt": 1658491344914,
+    "author": "Ustadz Aris Munandar, S.S., M.P.I",
+    "bookName": "1658491344914.pdf",
+    "id": "1658491344914"
+  },
+  {
+    "coverName": "1658491429709.webp",
+    "bookName": "1658491429709.pdf",
+    "updatedAt": 1658491429709,
+    "createdAt": 1658491429709,
+    "categoryId": "Modul",
+    "author": "Jannah Firdaus Mediapro",
+    "title": "Risalah Tuntunan Fiqih Lengkap Kaum Wanita Muslimah Edisi Bahasa Indonesia",
+    "id": "1658491429709"
+  },
+  {
+    "coverName": "1658491483861.webp",
+    "title": "Rona Kehidupan",
+    "categoryId": "Novel",
+    "author": "Menning Alamsyah",
+    "bookName": "1658491483861.pdf",
+    "createdAt": 1658491483861,
+    "updatedAt": 1658491483861,
+    "id": "1658491483861"
+  },
+  {
+    "bookName": "1658491520816.pdf",
+    "coverName": "1658491520816.webp",
+    "author": "Queen",
+    "title": "Saat Si Miskin Jadi Ratu",
+    "updatedAt": 1658491520816,
+    "categoryId": "Novel",
+    "createdAt": 1658491520816,
+    "id": "1658491520816"
+  },
+  {
+    "bookName": "1658491570066.pdf",
+    "updatedAt": 1658491570066,
+    "createdAt": 1658491570066,
+    "author": "Cho Nam-Joo",
+    "coverName": "1658491570066.webp",
+    "title": "Saha Mansion",
+    "categoryId": "Novel",
+    "id": "1658491570066"
+  },
+  {
+    "bookName": "1658491622740.pdf",
+    "createdAt": 1658491622740,
+    "updatedAt": 1658491622740,
+    "coverName": "1658491622740.webp",
+    "title": "Segitiga Patah Kaki",
+    "categoryId": "Novel",
+    "author": "Ollyjayzee",
+    "id": "1658491622740"
+  },
+  {
+    "coverName": "1658491691362.webp",
+    "createdAt": 1658491691362,
+    "categoryId": "Modul",
+    "title": "Sejarah Islam di Nusantara",
+    "bookName": "1658491691362.pdf",
+    "updatedAt": 1658492011424,
+    "author": "Michael Laffan",
+    "id": "1658491691362"
+  },
+  {
+    "title": "Seluas Harap Terbentang",
+    "createdAt": 1658491738043,
+    "author": "Amy Sastra Kencana",
+    "updatedAt": 1658491738043,
+    "bookName": "1658491738043.pdf",
+    "categoryId": "Novel",
+    "coverName": "1658491738043.webp",
+    "id": "1658491738043"
+  },
+  {
+    "updatedAt": 1658491783650,
+    "categoryId": "Novel",
+    "title": "Suara Cinta Sang Hati",
+    "bookName": "1658491783650.pdf",
+    "createdAt": 1658491783650,
+    "author": "Akh Taufiq, dkk",
+    "coverName": "1658491783650.webp",
+    "id": "1658491783650"
+  },
+  {
+    "title": "Tell your Father that I am a Moslem",
+    "author": "Hengki Kumayandi",
+    "bookName": "1658491833338.pdf",
+    "categoryId": "Novel",
+    "updatedAt": 1658491833338,
+    "coverName": "1658491833338.webp",
+    "createdAt": 1658491833338,
+    "id": "1658491833338"
+  },
+  {
+    "categoryId": "Novel",
+    "title": "The Gifts of Imperfection Embrace Who You Are",
+    "author": "Brené Brown, Ph.D., L.M.S.W",
+    "bookName": "1658491879908.pdf",
+    "coverName": "1658491879908.webp",
+    "updatedAt": 1658491879908,
+    "createdAt": 1658491879908,
+    "id": "1658491879908"
+  },
+  {
+    "categoryId": "Novel",
+    "coverName": "1658492160652.webp",
+    "bookName": "1658492160652.pdf",
+    "title": "Are You Really",
+    "author": "Innayah Putri",
+    "createdAt": 1658492160652,
+    "updatedAt": 1658492160652,
+    "id": "1658492160652"
+  },
+  {
+    "categoryId": "Novel",
+    "title": "Catatan Pendek untuk Cinta yang Panjang",
+    "updatedAt": 1658492187227,
+    "coverName": "1658492187227.webp",
+    "createdAt": 1658492187227,
+    "author": "Boy Candra",
+    "bookName": "1658492187227.pdf",
+    "id": "1658492187227"
+  },
+  {
+    "coverName": "1658492210219.webp",
+    "bookName": "1658492210219.pdf",
+    "title": "Kuajak Kau ke Hutan dan Tersesat Berdua",
+    "updatedAt": 1658492210219,
+    "createdAt": 1658492210219,
+    "author": "Boy Candra",
+    "categoryId": "Novel",
+    "id": "1658492210219"
+  },
+  {
+    "author": "Boy Candra",
+    "updatedAt": 1658492231550,
+    "categoryId": "Novel",
+    "coverName": "1658492231550.webp",
+    "bookName": "1658492231550.pdf",
+    "createdAt": 1658492231550,
+    "title": "Satu Hari di 2018",
+    "id": "1658492231550"
+  },
+  {
+    "updatedAt": 1658492258440,
+    "createdAt": 1658492258440,
+    "title": "Sebuah Usaha Melupakan",
+    "coverName": "1658492258440.webp",
+    "author": "Boy Candra",
+    "categoryId": "Novel",
+    "bookName": "1658492258440.pdf",
+    "id": "1658492258440"
+  },
+  {
+    "coverName": "1658492277428.webp",
+    "categoryId": "Novel",
+    "title": "Senja, Hujan, Cerita yang Telah Usai",
+    "createdAt": 1658492277428,
+    "author": "Boy Candra",
+    "bookName": "1658492277428.pdf",
+    "updatedAt": 1658492277428,
+    "id": "1658492277428"
+  },
+  {
+    "title": "Seperti Hujan yang Jatuh ke Bumi",
+    "createdAt": 1658492299186,
+    "updatedAt": 1658492299186,
+    "coverName": "1658492299186.webp",
+    "bookName": "1658492299186.pdf",
+    "categoryId": "Novel",
+    "author": "Boy Candra",
+    "id": "1658492299186"
+  },
+  {
+    "author": "Boy Candra",
+    "title": "Setelah Hujan Reda",
+    "coverName": "1658492319712.webp",
+    "updatedAt": 1658492319712,
+    "createdAt": 1658492319712,
+    "bookName": "1658492319712.pdf",
+    "categoryId": "Novel",
+    "id": "1658492319712"
+  },
+  {
+    "categoryId": "Novel",
+    "title": "Pada senja yang membawamu pergi",
+    "author": "Boy Candra",
+    "coverName": "1658492344831.webp",
+    "bookName": "1658492344831.pdf",
+    "updatedAt": 1658492344831,
+    "createdAt": 1658492344831,
+    "id": "1658492344831"
+  },
+  {
+    "author": "Steven R. Covey",
+    "coverName": "1658492454627.webp",
+    "createdAt": 1658492454627,
+    "categoryId": "Novel",
+    "bookName": "1658492454627.pdf",
+    "title": "Covey - The 7 habits of highly effective people",
+    "updatedAt": 1658492454627,
+    "id": "1658492454627"
+  },
+  {
+    "bookName": "1658492483746.pdf",
+    "createdAt": 1658492483746,
+    "updatedAt": 1658492483746,
+    "coverName": "1658492483746.webp",
+    "title": "Garis Waktu",
+    "author": "Fiersa Besari",
+    "categoryId": "Novel",
+    "id": "1658492483746"
+  },
+  {
+    "author": "J. K. Rowling",
+    "createdAt": 1658492518122,
+    "coverName": "1658492518122.webp",
+    "title": "Harry Potter The complete Collection",
+    "categoryId": "Novel",
+    "updatedAt": 1658492518122,
+    "bookName": "1658492518122.pdf",
+    "id": "1658492518122"
+  },
+  {
+    "createdAt": 1658492548371,
+    "bookName": "1658492548371.pdf",
+    "title": "Dilan 1",
+    "updatedAt": 1658492548371,
+    "coverName": "1658492548371.webp",
+    "categoryId": "Novel",
+    "author": "Pidi Baiq",
+    "id": "1658492548371"
+  },
+  {
+    "createdAt": 1658492571234,
+    "author": "Pidi Baiq",
+    "coverName": "1658492571234.webp",
+    "title": "Dilan 2",
+    "updatedAt": 1658492571234,
+    "bookName": "1658492571234.pdf",
+    "categoryId": "Novel",
+    "id": "1658492571234"
+  },
+  {
+    "createdAt": 1658492604803,
+    "bookName": "1658492604803.pdf",
+    "categoryId": "Novel",
+    "updatedAt": 1658492604803,
+    "title": "Milea Suara dari Dilan",
+    "author": "Pidi Baiq",
+    "coverName": "1658492604803.webp",
+    "id": "1658492604803"
+  },
+  {
+    "createdAt": 1658492632947,
+    "updatedAt": 1658492632947,
+    "author": "Anjar Lembayung",
+    "categoryId": "Novel",
+    "bookName": "1658492632947.pdf",
+    "title": "Rinai Hujan",
+    "coverName": "1658492632947.webp",
+    "id": "1658492632947"
+  },
+  {
+    "author": "Tere Liye",
+    "bookName": "1658492657670.pdf",
+    "updatedAt": 1658492784711,
+    "categoryId": "Novel",
+    "title": "Aku, Kau dan Sepucuk Angpau Merah",
+    "createdAt": 1658492657670,
+    "coverName": "1658492657670.webp",
+    "id": "1658492657670"
+  },
+  {
+    "author": "Tere Liye",
+    "updatedAt": 1658492685037,
+    "coverName": "1658492685037.webp",
+    "title": "Ayahku Bukan Pembohong",
+    "createdAt": 1658492685037,
+    "bookName": "1658492685037.pdf",
+    "categoryId": "Novel",
+    "id": "1658492685037"
+  },
+  {
+    "title": "Sepotong Hati Yang Baru",
+    "updatedAt": 1658492703647,
+    "coverName": "1658492703647.webp",
+    "createdAt": 1658492703647,
+    "bookName": "1658492703647.pdf",
+    "categoryId": "Novel",
+    "author": "Tere Liye",
+    "id": "1658492703647"
+  }
+]
